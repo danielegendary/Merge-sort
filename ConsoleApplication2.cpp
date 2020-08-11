@@ -1,5 +1,5 @@
-// ConsoleApplication2.cpp : Defines the entry point for the console application.
-//
+// C++ code for  Merge Sort
+//input the array in the console window to run the programme
 
 #include <iostream>
 #include <stdlib.h>
